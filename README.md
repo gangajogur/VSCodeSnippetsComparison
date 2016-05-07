@@ -2,44 +2,44 @@
 
 Below is the comparison between Angular 2 code snippets from [Dan Wahlin (DW)](http://blog.codewithdan.com/2016/03/19/angular-2-typescript-and-html-snippets-for-vs-code/) and [John Papa (JP)](http://www.johnpapa.net/vscode-ng-snippets/) for Visual Studio Code (VSCode).
 
-In my opinion, Dan Wahlin's extension has lot more snippets than John Papa and are also a slightly more productive in couple cases.  
+Dan Wahlin's extension has a few more snippets than John Papa. Also in a few cases, personally, DW's extension is preferred.  
 
-This comparison also came about when I saw the number of downloads for DW(1790) as compared to JP (24404).
+This comparison came about when I saw the difference in the number of downloads between the two. DW(1790) compared to JP (24404).
 
-![Alt text](Code Snippet Downloads.png "Numbers of downloads")
+![Comparison of download numbers between DW's and JP's extension](Code Snippet Downloads.png "Comparison of download numbers between DW's and JP's extension")
 
 Legend:  
-y = Better support  
+p = Preferred  
 \- = No support
 
 |                                            |    |    |                                         | 
 |--------------------------------------------|----|----|-----------------------------------------| 
 |                                            | JP | DW | Comments                                | 
 |**TypeScript Snippets**                                            |    |    |                                         |
-| Bootstrap snippet                          |    | y  | extra imports                           | 
-| Component snippet                          | y  |    | added moduleid in component declaration | 
-| Component root                             | y  | -  |                                         | 
-| Http module import snippet                 | -  | y  |                                         | 
-| Http map() snippet                         |    | y  | nicer to read                           | 
-| @Input property snippet                    | -  | y  |                                         | 
-| @Output event snippet                      | -  | y  |                                         | 
-| Pipe snippet                               |    | y  | strongly typed                          | 
-| @Routes snippet                            | y  | y  | similar                                 | 
-| Route definition snippet                   | y  | y  | similar                                 | 
-| Service snippet                            | y  | y  | same                                    | 
-| Observable subscribe snippet               |    | y  | nicer to read                           | 
-| provide() with useClass                    | -  | y  |                                         | 
+| Bootstrap snippet                          |    | p  | extra imports                           | 
+| Component snippet                          | p  |    | added moduleid in component declaration | 
+| Component root                             | p  | -  |                                         | 
+| Http module import snippet                 | -  | p  |                                         | 
+| Http map() snippet                         |    | p  | nicer to read                           | 
+| @Input property snippet                    | -  | p  |                                         | 
+| @Output event snippet                      | -  | p  |                                         | 
+| Pipe snippet                               |    | p  | strongly typed                          | 
+| @Routes snippet                            | p  | p  | similar                                 | 
+| Route definition snippet                   | p  | p  | similar                                 | 
+| Service snippet                            | p  | p  | same                                    | 
+| Observable subscribe snippet               |    | p  | nicer to read                           | 
+| provide() with useClass                    | -  | p  |                                         | 
 |                                            |    |    |                                         | 
 | **HTML Snippets**                                           |    |    |                                         | 
-| [class] binding snippet                    | -  | y  |                                         | 
-| [ngClass] snippet                          | y  | y  | same                                    | 
-| *ngFor snippet                             | y  | y  | same                                    | 
-| ngForm snippet                             | -  | y  |                                         | 
-| *ngIf snippet                              | y  | y  | same                                    | 
-| [(ngModel)] binding snippet                | y  | y  | same                                    | 
-| basic [routerLink] snippet                 | y  | y  | same                                    | 
-| [routerLink] with router parameter snippet | -  | y  |                                         | 
-| [ngSwitch] snippet                         | y  | y  | same                                    | 
-| [ngStyle] snippet                          | y  | y  | same                                    | 
-| <select> control using *ngFor snipppet     | -  | y  |                                         | 
-| [style] binding snippet                    | -  | y  |                                         | 
+| [class] binding snippet                    | -  | p  |                                         | 
+| [ngClass] snippet                          | p  | p  | same                                    | 
+| *ngFor snippet                             | p  | p  | same                                    | 
+| ngForm snippet                             | -  | p  |                                         | 
+| *ngIf snippet                              | p  | p  | same                                    | 
+| [(ngModel)] binding snippet                | p  | p  | same                                    | 
+| basic [routerLink] snippet                 | p  | p  | same                                    | 
+| [routerLink] with router parameter snippet | -  | p  |                                         | 
+| [ngSwitch] snippet                         | p  | p  | same                                    | 
+| [ngStyle] snippet                          | p  | p  | same                                    | 
+| <select> control using *ngFor snipppet     | -  | p  |                                         | 
+| [style] binding snippet                    | -  | p  |                                         | 
