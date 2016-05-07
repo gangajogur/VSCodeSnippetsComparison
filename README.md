@@ -1,6 +1,6 @@
 # VSCodeSnippetsComparison
 
-Below is the comparison between Angular 2 code snippets from [Dan Wahlin (DW)](http://blog.codewithdan.com/2016/03/19/angular-2-typescript-and-html-snippets-for-vs-code/) and [John Papa (JP)](http://www.johnpapa.net/vscode-ng-snippets/) for Visual Studio Code (VSCode).
+Below is the comparison between VS Code extensions for Angular 2 code snippets from [Dan Wahlin (DW)](http://blog.codewithdan.com/2016/03/19/angular-2-typescript-and-html-snippets-for-vs-code/) and [John Papa (JP)](http://www.johnpapa.net/vscode-ng-snippets/).
 
 Dan Wahlin's extension has a few more snippets than John Papa. Also in a few cases, personally, DW's extension is preferred.  
 
