@@ -4,7 +4,7 @@ Below is the comparison between Angular 2 code snippets from [Dan Wahlin (DW)](h
 
 Dan Wahlin's extension has a few more snippets than John Papa. Also in a few cases, personally, DW's extension is preferred.  
 
-This comparison came about when I saw the difference in the number of downloads between them. 1790 (DW) compared to 24404 (JP).
+This comparison came about when I saw the difference in the number of downloads between them at the time of writing this. 1790 (DW) compared to 24404 (JP).
 
 ![Comparison of download numbers between DW's and JP's extension](Code Snippet Downloads.png "Comparison of download numbers between DW's and JP's extension")
 
