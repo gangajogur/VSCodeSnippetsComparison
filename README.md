@@ -9,39 +9,39 @@ This comparison came about when I saw the difference in the number of downloads 
 ![Comparison of download numbers between DW's and JP's extension](Code Snippet Downloads.png "Comparison of download numbers between DW's and JP's extension")
 
 Legend:  
-&#10004; = F  
+:+1: = Personal preference  
 \- = Not supported
 
 |                                            |    |    |                                         | 
 |--------------------------------------------|----|----|-----------------------------------------| 
 |                                            | JP | DW | Comments                                | 
 |**TypeScript Snippets**                                            |    |    |                                         |
-| Bootstrap snippet                          |    | &#10004;  | extra imports                           | 
+| Bootstrap snippet                          |    | :+1:  | extra imports                           | 
 | Component snippet                          | :+1:  |    | added moduleid in component declaration | 
-| Component root                             | &#10004;  | -  |                                         | 
-| Http module import snippet                 | -  | &#10004;  |                                         | 
-| Http map() snippet                         |    | &#10004;  | nicer to read                           | 
-| @Input property snippet                    | -  | &#10004;  |                                         | 
-| @Output event snippet                      | -  | &#10004;  |                                         | 
-| Pipe snippet                               |    | &#10004;  | strongly typed                          | 
-| @Routes snippet                            | &#10004;  | &#10004;  | similar                                 | 
-| Route definition snippet                   | &#10004;  | &#10004;  | similar                                 | 
-| Service snippet                            | &#10004;  | &#10004;  | same                                    | 
-| Observable subscribe snippet               |    | &#10004;  | nicer to read                           | 
-| provide() with useClass                    | -  | &#10004;  |                                         | 
+| Component root                             | :+1:  | -  |                                         | 
+| Http module import snippet                 | -  | :+1:  |                                         | 
+| Http map() snippet                         |    | :+1:  | nicer to read                           | 
+| @Input property snippet                    | -  | :+1:  |                                         | 
+| @Output event snippet                      | -  | :+1:  |                                         | 
+| Pipe snippet                               |    | :+1:  | strongly typed                          | 
+| @Routes snippet                            | :+1:  | :+1:  | similar                                 | 
+| Route definition snippet                   | :+1:  | :+1:  | similar                                 | 
+| Service snippet                            | :+1:  | :+1:  | same                                    | 
+| Observable subscribe snippet               |    | :+1:  | nicer to read                           | 
+| provide() with useClass                    | -  | :+1:  |                                         | 
 |                                            |    |    |                                         | 
 | **HTML Snippets**                                           |    |    |                                         | 
-| [class] binding snippet                    | -  | &#10004;  |                                         | 
-| [ngClass] snippet                          | &#10004;  | &#10004;  | same                                    | 
-| *ngFor snippet                             | &#10004;  | &#10004;  | same                                    | 
-| ngForm snippet                             | -  | &#10004;  |                                         | 
-| *ngIf snippet                              | &#10004;  | &#10004;  | same                                    | 
-| [(ngModel)] binding snippet                | &#10004;  | &#10004;  | same                                    | 
-| basic [routerLink] snippet                 | &#10004;  | &#10004;  | same                                    | 
-| [routerLink] with router parameter snippet | -  | &#10004;  |                                         | 
-| [ngSwitch] snippet                         | &#10004;  | &#10004;  | same                                    | 
-| [ngStyle] snippet                          | &#10004;  | &#10004;  | same                                    | 
-| <select> control using *ngFor snipppet     | -  | &#10004;  |                                         | 
-| [style] binding snippet                    | -  | &#10004;  |                                         | 
+| [class] binding snippet                    | -  | :+1:  |                                         | 
+| [ngClass] snippet                          | :+1:  | :+1:  | same                                    | 
+| *ngFor snippet                             | :+1:  | :+1:  | same                                    | 
+| ngForm snippet                             | -  | :+1:  |                                         | 
+| *ngIf snippet                              | :+1:  | :+1:  | same                                    | 
+| [(ngModel)] binding snippet                | :+1:  | :+1:  | same                                    | 
+| basic [routerLink] snippet                 | :+1:  | :+1:  | same                                    | 
+| [routerLink] with router parameter snippet | -  | :+1:  |                                         | 
+| [ngSwitch] snippet                         | :+1:  | :+1:  | same                                    | 
+| [ngStyle] snippet                          | :+1:  | :+1:  | same                                    | 
+| <select> control using *ngFor snippet     | -  | :+1:  |                                         | 
+| [style] binding snippet                    | -  | :+1:  |                                         | 
 
 Happy to hear your thoughts!
